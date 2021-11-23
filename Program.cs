@@ -28,6 +28,7 @@ namespace PanierAchat
             // Appel de la méthode de l'objet AfficheMessage()
             Console.WriteLine("Item #: {0}\nDescription: {1}\nTaille: {2}\nPrix unitaire: {3} $\n", objPanier1.CodeItem, objPanier1.NameItem, objPanier1.SizeItem, objPanier1.PriceItem);
             Console.WriteLine("==============================");
+            Console.WriteLine("ce ci est un test pour github");
 
         } // Fin du Main
     } // Fin de la Classe Program
